@@ -24,4 +24,7 @@ This is a responsive and modern *To-Do List Web Application* built using HTML, C
 👩‍💻 Developer
 
 Created by Daniela Romana R. Castañeda ││
-GitHub: @dnlrmn09
+GitHub: @dnlrmn09 - https://github.com/dnlrmn09/My-ToDo-List
+
+## 🔗 Link 
+https://my-to-do-list-swart.vercel.app/
