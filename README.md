@@ -16,7 +16,7 @@ This is a responsive and modern *To-Do List Web Application* built using HTML, C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dnlrmn09/My-To-do-List.git
+   git clone https://github.com/dnlrmn09/My-ToDo-List.git
    cd todolist
    npm install
    npm start
