@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/dbd4b9c5-17c3-42db-9678-a1c0e1712bc4)
+![image](https://github.com/user-attachments/assets/aa964185-51a6-45b2-814b-559f21c3dbcf)
+
 # My-To-do-List
 
 This is a responsive and modern *To-Do List Web Application* built using HTML, CSS, and JavaScript (React). The design is clean and intuitive, dynamic task display, and interactive functionality like task completion and deletion tracking.
